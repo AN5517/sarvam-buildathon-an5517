@@ -5,7 +5,7 @@ a fact-check verdict with sources, plus three ready-to-send replies (gentle / ne
 
 Built for the Sarvam AI Buildathon with **Saaras** (speech-to-text) and **Sarvam-105B** (fact-check + tone-calibrated replies).
 
-**Live:** https://family-group-whisperer.vercel.app (mock mode until a Sarvam key is set)
+**Live:** https://family-group-whisperer.vercel.app (live Sarvam mode)
 
 ## Hero flow
 1. Paste a forward (or click "Use demo message") or upload a voice note.

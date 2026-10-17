@@ -32,4 +32,4 @@ GitHub `AN5517/sarvam-buildathon-an5517` (public) -> Vercel project, framework N
 - [x] M5 README + PLAN
 - [x] M6 Push to public GitHub
 - [x] M7 Deploy to Vercel, verify live URL
-- [ ] M8 Test with a real Sarvam key (live mode)
+- [x] M8 Tested text flow with a real Sarvam key (local + production); voice path untested
