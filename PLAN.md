@@ -30,6 +30,6 @@ GitHub `AN5517/sarvam-buildathon-an5517` (public) -> Vercel project, framework N
 - [x] M3 Hero flow UI end-to-end (text + voice, language/sender, verdict, copy)
 - [x] M4 Tests: 6 unit + 2 smoke (`npm test`)
 - [x] M5 README + PLAN
-- [ ] M6 Push to public GitHub
-- [ ] M7 Deploy to Vercel, set env, verify live URL
+- [x] M6 Push to public GitHub
+- [x] M7 Deploy to Vercel, verify live URL
 - [ ] M8 Test with a real Sarvam key (live mode)
